@@ -1,0 +1,35 @@
+td {
+  border: 1px solid black;
+}
+
+th {
+  border: 1px solid black;
+}
+table {
+  border: 1px solid black;
+  padding: 10px;
+  margin-top: 20px;
+}
+.App {
+  background-image: url(https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.hi2 {
+  border: none;
+  outline: none;
+  width: 10pc;
+  padding: 10px;
+  border-radius: 50px;
+  background-color: rgb(8, 159, 131);
+  font-size: 30px;
+}
